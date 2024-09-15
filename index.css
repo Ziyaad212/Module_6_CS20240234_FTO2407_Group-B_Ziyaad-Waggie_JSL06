@@ -80,3 +80,15 @@ footer {
     bottom: 0; /* Add this to position it at the bottom */
     width: 100%; /* Add this to span the full width */
 }
+
+.category {
+     margin-bottom: 20px; 
+}
+
+.item {
+     cursor: pointer; 
+}
+
+.order {
+     margin-top: 20px; 
+}
